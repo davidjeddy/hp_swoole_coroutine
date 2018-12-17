@@ -18,6 +18,6 @@
 ## Run
 
 ```bash
-	time php 1.php
+	time php {{filename}}.php
 ```
 
